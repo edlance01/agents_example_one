@@ -1,0 +1,50 @@
+Option 2: The Modern Way (No extra packages needed)
+If you prefer to align with modern LangChain standards, the framework now uses a unified create_agent function. This removes the need for AgentExecutor and handles tool binding natively.
+Here is how you would refactor your script to use the latest architecture:
+
+
+
+Python
+from dotenv import load_dotenv
+from pydantic import BaseModel
+from langchain_anthropic import ChatAnthropic
+from langchain_core.tools import tool
+
+# 1. New, unified agent import
+from langchain.agents import create_agent
+
+load_dotenv()
+
+class ResearchResponse(BaseModel):
+    topic: str
+    summary: str
+    sources: list[str]
+    tools_used: list[str]
+
+llm2 = ChatAnthropic(model="claude-haiku-4-5")
+
+# 2. Modern agents require at least one valid tool structure to compile 
+@tool
+def mock_tool(query: str) -> str:
+    """A placeholder tool for the research assistant."""
+    return "No extra data needed."
+
+tools = [mock_tool]
+
+# 3. Create the agent natively (System prompts are handled directly via a string parameter)
+agent = create_agent(
+    model=llm2,
+    tools=tools,
+    system_prompt="You are a research assistant that will help generate a research paper."
+)
+
+# 4. Invoke the agent directly (No AgentExecutor wrapper required!)
+response = agent.invoke({
+    "messages": [
+        {"role": "user", "content": "What is the current state of research on quantum computing?"}
+    ]
+})
+
+print(response)
+
+
