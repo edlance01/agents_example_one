@@ -1,0 +1,229 @@
+--- Research Output ---
+Timestamp: 2026-05-22 10:55:46
+
+CAPITAL GAINS TAX ANALYSIS: Atlanta Investment Property Sale
+=========================================================
+Prepared: Current Date
+Property Sale: $2,000,000
+Original Basis: $1,100,000
+Gross Gain: $900,000
+Net Clear Amount: ~$900,000
+
+SITUATION SUMMARY:
+- Property held as investment property initially
+- 6 of last 7 years used as primary residence
+- One daughter finishing high school there
+- County residency for emergency services (free life flight)
+- Maintained primary residence in Atlanta throughout
+- Planning to reinvest ~$700,000 in Atlanta home
+
+═══════════════════════════════════════════════════════════════
+
+KEY TAX ISSUES TO ADDRESS:
+
+1. PRIMARY RESIDENCE EXCLUSION (Section 121)
+   ────────────────────────────────────────
+   ✓ GOOD NEWS: You meet the basic 2 out of 5 year requirement (6 out of 7 years)
+   
+   ✗ CRITICAL ISSUE: "Nonqualified Use" Limitation
+   
+   The Tax Cuts and Jobs Act (2017) introduced complex allocation rules:
+   - If property was used as investment property (rental) and then converted
+     to primary residence, the gain must be ALLOCATED between periods
+   - Gain is prorated based on the ratio of nonqualified use to total holding period
+   - In your case: 1 year investment use / 7 years total = 1/7 of gain is NOT excludable
+   
+   CALCULATION:
+   - Total Gain: $900,000
+   - Nonqualified Use Period: 1 year (first year as investment)
+   - Qualified Use Period: 6 years (as primary residence)
+   - Nonqualified Portion of Gain: $900,000 × (1/7) ≈ $128,571
+   - Excludable Gain: $900,000 - $128,571 = $771,429
+   - Available Section 121 Exclusion: $500,000 (married) or $250,000 (single)
+   
+   TAXABLE CAPITAL GAIN: 
+   If married: $771,429 - $500,000 = $271,429 taxable
+   If single: $771,429 - $250,000 = $521,429 taxable
+
+2. DEPRECIATION RECAPTURE (CRITICAL!)
+   ──────────────────────────────────
+   ✗ MAJOR TAX ISSUE: This may be your biggest tax bill
+   
+   - Any depreciation claimed while property was investment rental is taxed
+     at ordinary income rates (25%) even though capital gain rates apply
+   - You did NOT mention depreciation, but if you claimed it or your tax
+     preparer claimed it for the investment years, this is significant
+   - This recapture is NOT covered by the Section 121 exclusion
+   
+   EXAMPLE: If you claimed $100,000 depreciation during rental years:
+   - Depreciation Recapture Tax: $100,000 × 25% = $25,000
+   - This is in ADDITION to capital gains tax
+
+3. INVESTMENT IN NEW HOME ($700,000 Atlanta home)
+   ───────────────────────────────────────────────
+   ✗ DOES NOT HELP with capital gains tax
+   
+   KEY POINT: Purchasing a new home does NOT offset or reduce the capital
+   gains tax liability from selling the investment property.
+   
+   Why: The Section 121 exclusion and capital gains taxes are completely
+   separate from subsequent home purchases. The new home only creates a new
+   basis for future appreciation tracking.
+   
+   The home purchase might affect your:
+   - Mortgage interest deduction (capped at $750K loan amount)
+   - Property tax deduction (subject to SALT limits)
+   - But these are different from capital gains on the sold property
+
+═══════════════════════════════════════════════════════════════
+
+ESTIMATED TAX LIABILITY (Approximate):
+
+Scenario A: Married Filing Jointly, No Depreciation Claimed
+   Nonqualified Gain: $128,571
+   Less Section 121 Exclusion: ($500,000)
+   Taxable Gain: $0 (covered by exclusion)
+   
+   BUT: Long-term capital gains tax at 15% or 20%
+   Plus: Net Investment Income Tax (3.8% if MAGI threshold exceeded)
+   
+   Estimated Tax: Minimal to $0 (under favorable assumptions)
+
+Scenario B: Single, No Depreciation Claimed
+   Nonqualified Gain: $128,571
+   Plus: Remaining gain not covered: $271,429
+   Total Taxable: $400,000
+   Tax at 15% LTCG: $60,000
+   Tax at 20% LTCG: $80,000
+   Plus NIIT (3.8%): $15,200
+   
+   Estimated Tax: $75,200 - $95,200
+
+Scenario C: WITH Depreciation Recapture (Critical Variable!)
+   If you claimed depreciation on the 1 year of rental use:
+   - Add depreciation recapture tax at 25% ordinary income rate
+   - Example: $50,000 depreciation = $12,500 additional tax
+   - This is on top of capital gains taxes above
+
+═══════════════════════════════════════════════════════════════
+
+LEGITIMATE TAX PLANNING STRATEGIES:
+
+1. VERIFY DEPRECIATION HISTORY (URGENT)
+   ─────────────────────────────────────
+   ACTION REQUIRED: Pull your tax returns for all years property was held
+   - If you claimed depreciation as rental: Factor in recapture tax
+   - If you DIDN'T claim depreciation: You may have missed deductions
+     BUT you avoid the 25% recapture tax on those amounts
+   - Consider amending returns if depreciation was missed (but consult CPA)
+
+2. DOCUMENTATION OF PRIMARY RESIDENCE STATUS
+   ────────────────────────────────────────
+   IMPORTANT: Your documentation of primary residency is critical because:
+   - The IRS may challenge your 6-year primary residence claim
+   - Having your daughter's school records, voter registration, and utilities
+     in that county helps substantiate primary residency
+   - The free life flight justification is reasonable but get documentation
+
+3. TIMING OF SALE AND RECOGNITION
+   ────────────────────────────────
+   - If you haven't closed yet: Document that sale occurs in tax year
+   - Section 121 exclusion must be claimed with your tax return for that year
+   - Cannot be amended after statute of limitations closes
+
+4. MARITAL STATUS CONSIDERATIONS
+   ──────────────────────────────
+   - If married filing jointly: Up to $500,000 exclusion available
+   - If single: Only $250,000 exclusion available
+   - If married filing separately: $250,000 per person (limited circumstances)
+   - If recently married/divorced: May impact which home qualifies
+
+5. STATE AND LOCAL TAX IMPLICATIONS
+   ────────────────────────────────
+   - Georgia state tax: Generally follows federal capital gains treatment
+   - Some states have additional taxes on real estate sales
+   - Verify Atlanta/Fulton County local tax implications
+
+6. ABILITY TO EXCLUDE MULTIPLE YEARS
+   ────────────────────────────────
+   ✗ LIMITATION: Cannot use Section 121 more than once every 2 years
+   - You need to verify last time you used this exclusion (if ever)
+   - If you sold Atlanta primary residence in last 2 years: You may be
+     ineligible for this exclusion
+
+═══════════════════════════════════════════════════════════════
+
+WHAT DOES NOT HELP (Common Misconceptions):
+
+1. ✗ Buying a new $700,000 home: Does NOT reduce capital gains tax
+   - Future appreciation on new home is separate issue
+   - No carryover or offset of gains from old property
+
+2. ✗ 1031 Exchange: NOT AVAILABLE
+   - 1031 Exchanges only work for investment property to investment property
+   - Cannot use 1031 to exchange investment property for primary residence
+   - Once you lived in it as primary residence for significant period,
+     conversion back to investment use then exchange is complex and risky
+
+3. ✗ Using proceeds to pay down Atlanta home mortgage: No tax benefit
+   - Capital gains tax is owed regardless of what you do with proceeds
+   - Paying down mortgage doesn't reduce the gain
+
+4. ✗ Reinvesting proceeds in stocks or other investments: No tax benefit
+   - Deferral taxes only work for 1031 exchanges (investment property only)
+   - Stock purchases don't provide any offset
+
+═══════════════════════════════════════════════════════════════
+
+IMMEDIATE ACTION ITEMS:
+
+1. HIRE A TAX PROFESSIONAL IMMEDIATELY
+   Priority: Consult CPA or tax attorney BEFORE closing on sale
+   Questions to review:
+   
+   □ Was depreciation claimed during rental years?
+   □ What is the exact holding period breakdown?
+   □ Documentation showing 6-year primary residence status
+   □ Georgia and local tax implications
+   □ Last date Section 121 was used (if ever)
+   □ Marital status at sale date
+   □ MAGI calculations for Net Investment Income Tax threshold
+
+2. GATHER DOCUMENTATION
+   □ Original purchase price and closing statement
+   □ Capital improvement records (renovations/remodeling adds to basis)
+   □ Depreciation schedule from tax returns
+   □ Proof of primary residency (school records, voter registration, utilities)
+   □ Closing statement showing selling expenses (reduce gain)
+
+3. CALCULATE ADJUSTED BASIS
+   Starting Basis: $1,100,000
+   Plus: Capital improvements made during ownership
+   Minus: Selling costs/commissions (typically 5-7%)
+   
+   Selling costs reduce the gain dollar-for-dollar
+
+4. TIMING AND PLANNING
+   □ If sale hasn't closed: Ensure it closes in intended tax year
+   □ If married and sale is near year-end: Consider filing status options
+   □ Plan for estimated tax payments if needed
+
+═══════════════════════════════════════════════════════════════
+
+BOTTOM LINE SUMMARY:
+
+Your estimated federal capital gains tax is likely:
+- Married: $30,000 - $60,000 (if no significant depreciation)
+- Single: $70,000 - $100,000 (if no significant depreciation)
+
+VARIABLE: Depreciation recapture could add $10,000-$40,000+ depending on
+          how much depreciation was claimed on the investment period
+
+Buying a new $700,000 home in Atlanta: Does NOT reduce this tax bill
+but may provide benefits for future appreciation and mortgage interest deductions.
+
+KEY POINT: The critical unknown is the depreciation history. This should be
+          your #1 immediate research task with your CPA.
+
+═══════════════════════════════════════════════════════════════
+
