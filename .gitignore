@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (Virtual Envs)
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# AI/Data specific (Keep data and model weights local)
+data/
+models/
+*.pkl
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Credentials and environment variables
+.env
+secret_key.txt
